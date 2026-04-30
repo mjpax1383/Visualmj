@@ -1,0 +1,7 @@
+{
+  "name": "vercel-xhttp-stealth",
+  "version": "1.0.0",
+  "description": "Streaming VLESS+XHTTP proxy on Vercel (low detection profile)",
+  "main": "api/index.js",
+  "license": "MIT"
+}
